@@ -1,0 +1,14 @@
+
+```json
+{
+"name": "Zegeh",
+"symbol": "ZGH",
+"type": "BEP20",
+"decimals": 18,
+"website": "https://github.com/ijoba1/assets",
+"description": "Zegeh (ZGH) is a community-driven token deployed on BNB Smart Chain.",
+"explorer": "https://bscscan.com/address/0x5BD12d08feff802B9FfF025154198EAb300aE905",
+"status": "active",
+"id": "0x5BD12d08feff802B9FfF025154198EAb300aE905"
+}
+```
